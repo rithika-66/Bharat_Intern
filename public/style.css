@@ -1,10 +1,11 @@
 .main{
     padding:20px;
     font-family:'Arial';
-    box-shadow:5px 5px 7px 5px #8888;
+    box-shadow:5px 5px 7px 5px #07b84e88;
     
 }
-.main h1{
+.main h2{
+    color:#1d14c288
     font-size:36px;
     text-align:center;
     font-family:'Arial';
@@ -17,15 +18,15 @@ input{
     padding:12px 20px;
     margin:8px;
     border:none;
-    border-bottom:2px solid #764776;
+    border-bottom:2px solid #053910;
 
 }
 input[type=submit]{
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
-    background-color: #764776;
+    background-color: #37bc58;
     border:none;
-    color:white;
+    color:rgb(253, 242, 242);
     padding: 16px 32px;
     margin: 4px 2px;
     border-radius: 10px;
